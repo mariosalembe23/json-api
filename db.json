@@ -1,0 +1,290 @@
+[
+    {
+      "id": 1,
+      "firstName": "Carlos",
+      "apelido": "Silva",
+      "imageColor": "#FF5733",
+      "funcao": "Engenheiro de Software"
+    },
+    {
+      "id": 2,
+      "firstName": "Linda",
+      "apelido": "Johnson",
+      "imageColor": "#45AAB8",
+      "funcao": "Designer de UI/UX"
+    },
+    {
+      "id": 3,
+      "firstName": "José",
+      "apelido": "Fernandes",
+      "imageColor": "#FFBF00",
+      "funcao": "Desenvolvedor Front-end"
+    },
+    {
+      "id": 4,
+      "firstName": "Emily",
+      "apelido": "Brown",
+      "imageColor": "#008080",
+      "funcao": "Analista de Dados"
+    },
+    {
+      "id": 5,
+      "firstName": "Paulo",
+      "apelido": "Garcia",
+      "imageColor": "#800080",
+      "funcao": "Engenheiro de Redes"
+    },
+    {
+      "id": 6,
+      "firstName": "Michelle",
+      "apelido": "Williams",
+      "imageColor": "#FF4500",
+      "funcao": "Desenvolvedor Full-Stack"
+    },
+    {
+      "id": 7,
+      "firstName": "Manuel",
+      "apelido": "Davis",
+      "imageColor": "#87CEEB",
+      "funcao": "Arquiteto de Soluções"
+    },
+    {
+      "id": 8,
+      "firstName": "Catarina",
+      "apelido": "Martins",
+      "imageColor": "#228B22",
+      "funcao": "Engenheiro de Sistemas"
+    },
+    {
+      "id": 9,
+      "firstName": "Daniel",
+      "apelido": "Anderson",
+      "imageColor": "#FFD700",
+      "funcao": "Designer de Produto"
+    },
+    {
+      "id": 10,
+      "firstName": "Ana",
+      "apelido": "Rodrigues",
+      "imageColor": "#00FFFF",
+      "funcao": "Desenvolvedor Mobile"
+    },
+    {
+      "id": 11,
+      "firstName": "Michael",
+      "apelido": "Smith",
+      "imageColor": "#DAA520",
+      "funcao": "Analista de Segurança"
+    },
+    {
+      "id": 12,
+      "firstName": "Sofia",
+      "apelido": "Wilson",
+      "imageColor": "#00FF00",
+      "funcao": "Engenheiro de Testes"
+    },
+    {
+      "id": 13,
+      "firstName": "João",
+      "apelido": "Taylor",
+      "imageColor": "#FF69B4",
+      "funcao": "Gerente de Projeto"
+    },
+    {
+      "id": 14,
+      "firstName": "Isabel",
+      "apelido": "Walker",
+      "imageColor": "#800000",
+      "funcao": "Desenvolvedor Back-end"
+    },
+    {
+      "id": 15,
+      "firstName": "Eduardo",
+      "apelido": "Harris",
+      "imageColor": "#8A2BE2",
+      "funcao": "Designer de Experiência do Usuário"
+    },
+    {
+      "id": 16,
+      "firstName": "Carolina",
+      "apelido": "Clark",
+      "imageColor": "#DC143C",
+      "funcao": "Engenheiro de DevOps"
+    },
+    {
+      "id": 17,
+      "firstName": "Gabriel",
+      "apelido": "Lewis",
+      "imageColor": "#FFA500",
+      "funcao": "Analista de QA"
+    },
+    {
+      "id": 18,
+      "firstName": "Laura",
+      "apelido": "Moore",
+      "imageColor": "#FF6347",
+      "funcao": "Engenheiro de Machine Learning"
+    },
+    {
+      "id": 19,
+      "firstName": "Rui",
+      "apelido": "Clark",
+      "imageColor": "#8B008B",
+      "funcao": "Desenvolvedor de Jogos"
+    },
+    {
+      "id": 20,
+      "firstName": "Olivia",
+      "apelido": "Perez",
+      "imageColor": "#A0522D",
+      "funcao": "Arquiteto de Software"
+    },
+    {
+      "id": 21,
+      "firstName": "António",
+      "apelido": "Brown",
+      "imageColor": "#4B0082",
+      "funcao": "Analista de Negócios"
+    },
+    {
+      "id": 22,
+      "firstName": "Sophia",
+      "apelido": "Gonzalez",
+      "imageColor": "#F08080",
+      "funcao": "Engenheiro de Frontend"
+    },
+    {
+      "id": 23,
+      "firstName": "Lucas",
+      "apelido": "Davis",
+      "imageColor": "#32CD32",
+      "funcao": "Designer de Interface"
+    },
+    {
+      "id": 24,
+      "firstName": "Isabella",
+      "apelido": "Anderson",
+      "imageColor": "#FFFF00",
+      "funcao": "Engenheiro de Banco de Dados"
+    },
+    {
+      "id": 25,
+      "firstName": "Miguel",
+      "apelido": "Moore",
+      "imageColor": "#2E8B57",
+      "funcao": "Desenvolvedor de Software"
+    },
+    {
+      "id": 26,
+      "firstName": "Julia",
+      "apelido": "Wilson",
+      "imageColor": "#FA8072",
+      "funcao": "Analista de Sistemas"
+    },
+    {
+      "id": 26,
+      "firstName": "Mário",
+      "apelido": "Salembe",
+      "imageColor": "#ddd",
+      "funcao": "CEO Morphosis Corporation"
+    },
+    {
+      "id": 27,
+      "firstName": "Manuela",
+      "apelido": "Lee",
+      "imageColor": "#800000",
+      "funcao": "Engenheiro de Backend"
+    },
+    {
+      "id": 28,
+      "firstName": "David",
+      "apelido": "Hernandez",
+      "imageColor": "#4B0082",
+      "funcao": "Designer de Interação"
+    },
+    {
+      "id": 29,
+      "firstName": "Eva",
+      "apelido": "Taylor",
+      "imageColor": "#F08080",
+      "funcao": "Engenheiro de DevOps"
+    },
+    {
+      "id": 30,
+      "firstName": "António",
+      "apelido": "Perez",
+      "imageColor": "#F0E68C",
+      "funcao": "Analista de Dados"
+    },
+    {
+      "id": 31,
+      "firstName": "Chloe",
+      "apelido": "Clark",
+      "imageColor": "#32CD32",
+      "funcao": "Desenvolvedor Full-Stack"
+    },
+    {
+      "id": 32,
+      "firstName": "Mateus",
+      "apelido": "Gonzalez",
+      "imageColor": "#A0522D",
+      "funcao": "Engenheiro de Software"
+    },
+    {
+      "id": 33,
+      "firstName": "Lara",
+      "apelido": "Davis",
+      "imageColor": "#FFFF00",
+      "funcao": "Designer de Produto"
+    },
+    {
+      "id": 34,
+      "firstName": "Laura",
+      "apelido": "Anderson",
+      "imageColor": "#2E8B57",
+      "funcao": "Engenheiro de Redes"
+    },
+    {
+      "id": 35,
+      "firstName": "Pedro",
+      "apelido": "Moore",
+      "imageColor": "#FA8072",
+      "funcao": "Analista de QA"
+    },
+    {
+      "id": 36,
+      "firstName": "Luisa",
+      "apelido": "Wilson",
+      "imageColor": "#DAA520",
+      "funcao": "Engenheiro de Testes"
+    },
+    {
+      "id": 37,
+      "firstName": "Davi",
+      "apelido": "Lee",
+      "imageColor": "#8A2BE2",
+      "funcao": "Desenvolvedor Mobile"
+    },
+    {
+      "id": 38,
+      "firstName": "Sara",
+      "apelido": "Hernandez",
+      "imageColor": "#228B22",
+      "funcao": "Engenheiro de Sistemas"
+    },
+    {
+      "id": 39,
+      "firstName": "Filipe",
+      "apelido": "Taylor",
+      "imageColor": "#FFD700",
+      "funcao": "Engenheiro de Machine Learning"
+    },
+    {
+      "id": 40,
+      "firstName": "Aline",
+      "apelido": "Perez",
+      "imageColor": "#FF6347",
+      "funcao": "Arquiteto de Soluções"
+    }
+  ]
+  
