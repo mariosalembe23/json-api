@@ -1,4 +1,5 @@
-[
+{
+  "users": [
     {
       "id": 1,
       "firstName": "Carlos",
@@ -287,4 +288,4 @@
       "funcao": "Arquiteto de Soluções"
     }
   ]
-  
+}
